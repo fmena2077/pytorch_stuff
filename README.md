@@ -1,2 +1,2 @@
 # pytorch_stuff
-Scripts de diversas aplicaciones en pytorch
+Ejercicios de diversas aplicaciones en pytorch, diplomado PUC
